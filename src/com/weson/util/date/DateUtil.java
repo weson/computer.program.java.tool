@@ -83,7 +83,6 @@ public class DateUtil extends java.util.Date {
      
     /**
      * 功能：将当前日期的小时进行重新设置。
-     * @param hours 小时数 (24小时制)
      * @return 设置后的日期
      */
     public DateUtil setHourNew(int hour){
@@ -95,7 +94,7 @@ public class DateUtil extends java.util.Date {
      
     /**
      * 功能：将当前日期的天进行重新设置。
-     * @param days 某一天
+     * @param day 某一天
      * @return 设置后的日期
      */
     public DateUtil setDayNew(int day){
@@ -107,7 +106,7 @@ public class DateUtil extends java.util.Date {
      
     /**
      * 功能：将当前日期的月进行重新设置。
-     * @param months 某一月
+     * @param month 某一月
      * @return 设置后的日期
      */
     public DateUtil setMonthNew(int month){
@@ -119,7 +118,7 @@ public class DateUtil extends java.util.Date {
      
     /**
      * 功能：将当前日期的年进行重新设置。
-     * @param years 某一年
+     * @param year 某一年
      * @return 设置后的日期
      */
     public DateUtil setYearNew(int year){
