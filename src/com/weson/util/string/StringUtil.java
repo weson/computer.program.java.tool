@@ -8,11 +8,7 @@ import java.util.regex.Pattern;
 
 /**
  * 功能描述：关于字符串的一些实用操作
- * 
- * @author Administrator
- * @Date Jul 18, 2008
- * @Time 2:19:47 PM
- * @version 1.0
+ *
  */
 public class StringUtil {
 
