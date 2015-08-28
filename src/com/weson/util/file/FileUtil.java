@@ -16,10 +16,6 @@ import javax.swing.text.html.HTMLDocument.HTMLReader.FormAction;
 /**
  * 功能描述：
  *
- * @author Administrator
- * @version 1.0
- * @Date Jul 19, 2008
- * @Time 9:46:11 AM
  */
 public class FileUtil {
 
