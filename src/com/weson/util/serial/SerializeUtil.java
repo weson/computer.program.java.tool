@@ -1,5 +1,8 @@
 package com.weson.util.serial;
 
+/**
+ * 序列化工具类
+ */
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.ObjectInputStream;
